@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>DMODataKitTestAwsS3_Amazon_S3Business_Unit_ReferenceSalesOrderInternalBusinessUnitIdatfHzPLOWbVNnzw</masterLabel>
+    <sourceField>eComms_Order1.Business_Unit_Reference__c</sourceField>
+    <targetField>SalesOrderDmo.SalesOrderDmo.InternalBusinessUnitId</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

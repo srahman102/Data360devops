@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>DMODataKitTest</dataPackageKitDef>
+    <developerName>Amazon_S3</developerName>
+    <masterLabel>Amazon S3</masterLabel>
+    <sourceObject>eComms_Order_1778865791733</sourceObject>
+    <sourceObjectType>DataStreamTemplate</sourceObjectType>
+    <targetObject>Amazon_S3</targetObject>
+</DataKitObjectDependency>
